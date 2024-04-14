@@ -1,6 +1,7 @@
 # # Сортировка по второму элементу вложенных списков
 # sorted_list = sorted(example_list, key=lambda x: x[1])
 
+# Задача на временные интервалы
 
 with open('k24-26-1.txt', 'r') as file:
     n = int(file.readline())
